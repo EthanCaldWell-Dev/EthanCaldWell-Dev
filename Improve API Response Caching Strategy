@@ -1,0 +1,1 @@
+This pull request introduces Redis-based caching for frequently accessed API endpoints. The implementation reduces database load, improves response times, and enhances overall application performance during peak traffic periods.
