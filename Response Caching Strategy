@@ -1,0 +1,1 @@
+When updating user profile information, cached data remains unchanged until cache expiration occurs. This causes outdated information to be displayed in the dashboard.
